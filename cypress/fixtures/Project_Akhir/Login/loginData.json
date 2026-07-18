@@ -1,0 +1,14 @@
+{
+    "validUser": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "invalidUser": {
+        "username": "usernamesalah",
+        "password": "passwordsalah"
+    },
+    "CaseSensitiveUser": {
+        "username": "admin",
+        "password": "Admin123"
+    }
+}

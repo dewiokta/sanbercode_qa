@@ -1,0 +1,19 @@
+{
+    "employeeName": {
+        "shortName": "Peter",
+        "fullName": "Peter Mac Anderson"
+    },
+    "jobTitle": {
+        "job": "Chief Financial Officer"
+    },
+    "location": {
+        "locationName": "New York Sales Office"
+    },
+    "invalidEmployee": {
+        "shortName": "Anel"
+    },
+
+    "invalidJobTitle": {
+        "job": "QA Engineer"
+    }
+}

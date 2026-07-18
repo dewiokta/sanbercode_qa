@@ -1,0 +1,47 @@
+{
+     "validCandidate": {
+            "firstName" : "Emilia",
+            "middleName" : "Ann",
+            "lastName" : "Richardo",
+            "vacancy" : "Senior IT Helpdesk",
+            "email" : "emiliaAnn@gmail.com",
+            "phone" : "010768542333",
+            "resume" : "resume.docx",
+            "keywords" : "QA Lead",
+            "dateOfApplication" : "2024-06-10",
+            "notes" : "screening process",
+            "consent" : "Yes"
+
+        },
+        "Search": {
+            "job": "Head of Support",
+            "vacancy": "Senior IT Helpdesk",
+            "hiringManager": "Emily Jones",
+            "status": "Interview Scheduled",
+            "hint": "Emilia",
+            "name" : "Emilia Ann Richardo"
+        },
+
+        "validVacancy" : {
+            "vacancyName" : "Senior IT Helpdesk",
+            "jobTitle" : "Head of Support",
+            "description" : "Responsible for overseeing the IT support team and ensuring efficient resolution of technical issues.",
+            "hiringManager" : "John Patrick Waller",
+            "numberOfPositions" : "2"
+
+        },
+         "InvalidCandidate" : {
+            "firstName" : " ",
+            "middleName" : "Ann",
+            "lastName" : "Richardo",
+            "email" : "emiliaAnngmail.com"
+
+         },
+         "statusChange": {
+            "status" : "Shortlisted",
+            "notes" : "Qualified candidate for the next round of interviews."
+         }
+
+
+        
+    }
